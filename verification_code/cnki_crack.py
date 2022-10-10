@@ -52,3 +52,7 @@ if __name__ == '__main__':
     print(captcha)
     time.sleep(10)
     # driver.quit()
+
+# https://www.lanqiao.cn/courses/364/learning/?id=1165
+# https://www.lanqiao.cn/courses/1133/learning/?id=7186
+# https://blog.csdn.net/qq_41937821/article/details/124037025
